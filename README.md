@@ -34,5 +34,5 @@ This Streamlit-based dashboard provides an exploratory data analysis (EDA) of th
 2. Or use
 
    ```bash
-   pip install -r requirments.txt
+   pip install -r requirements.txt
    
