@@ -30,3 +30,9 @@ This Streamlit-based dashboard provides an exploratory data analysis (EDA) of th
 
    ```bash
    pip install streamlit pandas plotly openpyxl
+
+2. Or use
+
+   ```bash
+   pip install -r requirments.txt
+   
