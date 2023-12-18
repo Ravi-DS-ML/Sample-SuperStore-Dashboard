@@ -35,4 +35,19 @@ This Streamlit-based dashboard provides an exploratory data analysis (EDA) of th
 
    ```bash
    pip install -r requirements.txt
-   
+
+## Open the provided URL in your web browser.
+
+## Project Structure
+    your_app_filename.py: Main application file containing the Streamlit app code.
+    Sample - Superstore.xls: Default dataset file (Excel format).
+    README.md: Project documentation.
+## Dependencies
+    streamlit: Web app framework for creating data applications.
+    pandas: Data manipulation library.
+    plotly: Interactive plotting library.
+    openpyxl: Excel file reading and writing library.
+
+## Author
+    Ravi
+
